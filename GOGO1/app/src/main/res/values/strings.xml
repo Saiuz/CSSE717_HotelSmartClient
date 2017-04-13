@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GOGO1</string>
+    <string name="setting_BLE">BlueTooth Reset</string>
+    <string name="icon">ICON</string>
+    <string name="team_introduction">深大创英班—酒店智能团队</string>
+    <string name="Introduction">使用说明</string>
+    <string name="setting">设置</string>
+</resources>
